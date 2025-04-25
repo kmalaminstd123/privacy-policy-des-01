@@ -1,0 +1,43 @@
+* {
+    font-family: "Montserrat", sans-serif;
+}
+
+.policy-nav {
+    background: white;
+    padding: 20px 0;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.policy-nav .btn {
+    margin-right: 15px;
+    border-radius: 30px;
+    font-weight: 600;
+}
+
+section {
+    padding: 30px 0;
+}
+
+section h2 {
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+section p {
+    font-size: 16px;
+    line-height: 1.8;
+}
+
+.policy-section {
+    padding: 40px 0;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.policy-section h3 {
+    font-weight: 700;
+    margin-bottom: 20px;
+}
