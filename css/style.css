@@ -2,6 +2,10 @@
     font-family: "Montserrat", sans-serif;
 }
 
+#privacy-policy-page ul li{
+    margin-top: 10px;
+}
+
 .policy-nav {
     background: white;
     padding: 20px 0;
