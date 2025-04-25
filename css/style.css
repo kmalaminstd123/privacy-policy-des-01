@@ -45,3 +45,9 @@ section p {
     font-weight: 700;
     margin-bottom: 20px;
 }
+
+@media screen and (max-width: 425px){
+    section h2 {
+        font-size: 25px;
+    }
+}
